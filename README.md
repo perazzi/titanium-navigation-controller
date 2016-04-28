@@ -1,7 +1,8 @@
 # titanium-navigation-controller
 A Navigation Controller module for Titanium
 
-
+This module should be used in Titanium Mobile, and it makes it easier to control the navigation between pages in the app.
+The module is confirmed to work on Android and IOS
 
 #Usage
 Put the module in your libs folder and require it in your code
